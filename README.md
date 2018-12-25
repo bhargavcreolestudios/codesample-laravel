@@ -14,8 +14,7 @@
       response so that front-end side will not be affected if any kind of issue occured.
  3) Code written with Laravel ORM standard
  4) Dynamic filtering with ORM
- 5) Custom SMS notification with Surftech channel.
-    
+ 5) Custom SMS notification with Surftech channel.    
  ```
 
 
